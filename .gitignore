@@ -7,3 +7,6 @@ pip-selfcheck.json
 *.pyc
 .DS_Store
 man/
+env/
+env/*
+env/Scripts
